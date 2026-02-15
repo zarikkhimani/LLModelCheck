@@ -1,0 +1,78 @@
+aiofiles==25.1.0
+annotated-types==0.7.0
+anyio==4.12.1
+asttokens @ file:///C:/b/abs_9662ywy9fp/croot/asttokens_1743630464377/work
+beautifulsoup4==4.14.3
+certifi==2026.1.4
+charset-normalizer==3.4.4
+colorama @ file:///C:/ci_311/colorama_1676422310965/work
+comm @ file:///C:/miniconda3/conda-bld/comm_1763119240032/work
+debugpy @ file:///C:/miniconda3/conda-bld/debugpy_1762421657701/work
+decorator @ file:///C:/miniconda3/conda-bld/decorator_1757341249812/work
+edgartools==5.16.0
+et_xmlfile==2.0.0
+excel2json-3==0.1.6
+executing @ file:///C:/miniconda3/conda-bld/executing_1757061250618/work
+filelock==3.24.0
+h11==0.16.0
+httpcore==1.0.9
+httpx==0.28.1
+httpxthrottlecache==0.3.0
+humanize==4.15.0
+idna==3.11
+ipykernel @ file:///C:/miniconda3/conda-bld/ipykernel_1762946093310/work
+ipython @ file:///C:/miniconda3/conda-bld/ipython_1762789323276/work
+ipython_pygments_lexers @ file:///C:/b/abs_b66hj1lo19/croot/ipython_pygments_lexers_1744753262043/work
+jedi @ file:///C:/b/abs_3a2kbnlclc/croot/jedi_1733987412687/work
+Jinja2==3.1.6
+jupyter_client @ file:///C:/Users/task_176839910354009/croot/jupyter_client_1768399225952/work
+jupyter_core @ file:///C:/miniconda3/conda-bld/jupyter_core_1764588344213/work
+lxml==6.0.2
+markdown-it-py==4.0.0
+MarkupSafe==3.0.3
+matplotlib-inline @ file:///C:/miniconda3/conda-bld/matplotlib-inline_1762779272071/work
+mdurl==0.1.2
+nest-asyncio @ file:///C:/b/abs_65d6lblmoi/croot/nest-asyncio_1708532721305/work
+numpy==2.4.2
+openpyxl==3.1.5
+orjson==3.11.7
+packaging @ file:///C:/miniconda3/conda-bld/packaging_1761049096285/work
+pandas==3.0.0
+parso @ file:///C:/miniconda3/conda-bld/parso_1762781926029/work
+platformdirs @ file:///C:/miniconda3/conda-bld/platformdirs_1762356607961/work
+prompt_toolkit @ file:///C:/miniconda3/conda-bld/prompt-toolkit_1761745034319/work
+psutil @ file:///C:/miniconda3/conda-bld/psutil_1761896536656/work
+pure_eval @ file:///C:/miniconda3/conda-bld/pure_eval_1757067065603/work
+pyarrow==23.0.0
+pydantic==2.12.5
+pydantic_core==2.41.5
+Pygments @ file:///C:/miniconda3/conda-bld/pygments_1762431425708/work
+pyrate-limiter==4.0.2
+python-dateutil @ file:///C:/b/abs_3au_koqnbs/croot/python-dateutil_1716495777160/work
+pywin32 @ file:///C:/b/abs_6c9w_vp9zi/croot/pywin32_1754670534373/work
+pyzmq @ file:///C:/miniconda3/conda-bld/pyzmq_1762375608224/work
+qtconsole @ file:///C:/miniconda3/conda-bld/qtconsole_1758748653751/work
+QtPy @ file:///C:/miniconda3/conda-bld/qtpy_1757531228141/work
+rank-bm25==0.2.2
+RapidFuzz==3.14.3
+requests==2.32.5
+rich==14.3.2
+six @ file:///C:/b/abs_149wuyuo1o/croot/six_1744271521515/work
+soupsieve==2.8.3
+stack_data @ file:///C:/miniconda3/conda-bld/stack_data_1757067061065/work
+stamina==25.2.0
+tabulate==0.9.0
+tenacity==9.1.4
+textdistance==4.6.3
+tkinterdnd2==0.4.3
+tornado @ file:///C:/Users/task_176599274942531/croot/tornado_1765992874871/work
+tqdm==4.67.3
+traitlets @ file:///C:/b/abs_bfsnoxl4pq/croot/traitlets_1718227069245/work
+truststore==0.10.4
+typing-inspection==0.4.2
+typing_extensions @ file:///C:/b/abs_ecq8gc0vbm/croot/typing_extensions_1756281142218/work
+tzdata==2025.3
+Unidecode==1.4.0
+urllib3==2.6.3
+wcwidth @ file:///C:/Users/task_176777899121830/croot/wcwidth_1767779217471/work
+xlrd==2.0.2
