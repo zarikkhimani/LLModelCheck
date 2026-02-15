@@ -1,3 +1,4 @@
+#Allows you to work interactively with LLMs complex financial models via JSON conversion
 # XLSX to JSON Structure & Values Exporter
 
 A Python-based GUI utility to extract data from Excel workbooks into two distinct JSON files: one for the **structure** (formulas and constants) and one for the **cached values**.
@@ -27,5 +28,6 @@ This project is licensed under the **PolyForm Noncommercial License 1.0.0**.
 **What this means:**
 * **Personal/Academic Use:** You are free to use, study, and modify this tool for personal projects or schoolwork.
 * **Commercial Use:** You may **not** use this software for any activities intended for or directed toward commercial advantage or monetary compensation. This includes use within a for-profit corporation or for processing client data in a professional setting.
+
 
 **Interested in commercial use?** If you would like to use this tool at your firm or integrate it into a commercial product, please contact me to discuss a commercial license.
